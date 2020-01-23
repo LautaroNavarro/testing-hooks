@@ -1,6 +1,6 @@
 -   id: custom
     name: custom
-    entry: echo 'Hola'
+    entry: custom.sh
     language: script
     'types': [python]
     args: []
