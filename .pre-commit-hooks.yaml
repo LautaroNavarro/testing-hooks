@@ -1,7 +1,7 @@
--   id: isort
-    name: isort
-    entry: isort
-    language: python
+-   id: custom
+    name: custom
+    entry: echo 'Hola'
+    language: script
     'types': [python]
     args: []
     require_serial: false
