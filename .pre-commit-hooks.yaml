@@ -1,8 +1,6 @@
 -   id: custom
     name: custom
-    entry: custom.sh
-    language: script
+    entry: custom
+    language: python
     'types': [python]
-    args: []
     require_serial: false
-    additional_dependencies: []
